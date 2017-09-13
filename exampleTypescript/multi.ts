@@ -5,7 +5,6 @@ import {AngularHomepage} from './angularPage';
 describe('angularjs homepage', () => {
   beforeEach(() => {
       console.log('beforeEach');
-      browser.sleep(5000)
 
   });
 
