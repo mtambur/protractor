@@ -9,8 +9,8 @@ export let config: Config = {
   },
   
 suites: {
-        "spec01.mix.ts": '../tar/spec01.mix.ts',
-	      "spec02.mix.ts": '../tar/spec01.mix.ts'
+        "spec01.mix.ts": 'spec01.mix.ts',
+	      "spec02.mix.ts": 'spec01.mix.ts'
 	},
 
   seleniumAddress: 'http://localhost:4444/wd/hub',
